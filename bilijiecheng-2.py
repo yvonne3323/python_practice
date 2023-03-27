@@ -20,3 +20,11 @@ def factorial(num):
         sum = sum * i
     return sum
 print("5的阶乘为:",factorial(5))
+
+#递归
+def factorial2(num):
+    if num == 1:
+        return 1
+    else:
+        return num * factorial2(num-1)
+print("5的阶乘为:",factorial2(5))
