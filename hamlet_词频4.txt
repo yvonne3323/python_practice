@@ -1,0 +1,13 @@
+小写单词:
+the	991
+and	703
+to	631
+of	628
+you	503
+
+大写单词:
+I	608
+HAMLET	387
+HORATIO	127
+KING	120
+CLAUDIUS	120
